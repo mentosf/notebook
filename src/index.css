@@ -11,3 +11,190 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.links{
+  
+  background-color: black;
+  width: 100%;
+  height: 200px;
+}
+
+
+
+
+
+.wrapper{
+  
+  margin: 0 auto;
+  
+  width: 80%;
+  justify-content: space-around;
+  display: flex;
+}
+
+.nav-link{
+ margin-top: 80px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  transition-duration: 0.3s;
+}
+
+.nav-link:hover {
+  font-size: 21px;
+}
+
+.sec1{
+  width: 100%;
+  
+}
+
+
+.search_wrap{
+  
+  display: flex;
+  width: 500px;
+  height: 100px;
+  
+  margin: 0 auto;
+  
+  
+}
+
+.search_wrap input{
+  border: 1px solid gray;
+  border-radius: 9px;
+  width: 250px;
+  height: 40px;
+}
+
+.search_wrap button{
+  
+
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    transition-duration: .2;
+  
+  
+  
+}
+.search_wrap button:active{
+    
+  background-color: white;
+  color: black;
+  
+}
+.wrap{
+  gap: 10px;
+  margin: 0 auto;
+  margin-top: 30px;
+  display: flex;
+}
+
+
+
+.sec2{
+  margin: 0 auto;
+  width: 90%;
+  border: 1px solid gray;
+  border-radius: 20px;
+}
+
+.second-content{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+
+}
+
+.task-card{
+position: relative;
+  border-radius: 5px;
+  border: 2px solid black;
+  height: 300px;
+  width: 200px;
+
+}
+
+.wrapper-create{
+  gap: 20px;
+  padding: 30px;
+  border: 2px solid gray;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 100px;
+  border-radius: 20px;
+}
+
+.inp{
+  font-size: 19px;
+  margin: 0 auto;
+  width: 250px;
+  height: 30px;
+  border: 1px solid gray;
+  border-radius: 7px;
+}
+
+.des{
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+  border: 1px solid gray;
+  
+  border-radius: 7px;
+}
+
+.create-btn{
+  background-color: black;
+  color: white;
+  border-radius: 2px;
+  width: 100px;
+  height: 40px;
+  transition-duration: .2;
+  border: 1px solid gray;
+  margin: 0 auto;
+  font-size: 17px;
+  margin-top: 20px;
+  
+}
+.create-btn:active{
+    
+  background-color: white;
+  color: black;
+  
+}
+
+.task-date {
+  font-size: 15px;
+  
+  margin-top: 4px;
+}
+
+.delete{
+  
+  background-image: url(https://cdn-icons-png.flaticon.com/512/1214/1214428.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; 
+  width: 40px; 
+  height: 40px; 
+  transition-duration: .5s;
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 10px;
+  transform: translateX(-45%);
+  border-radius: 7px;
+}
+
+.delete:hover{
+  
+  width: 45px;
+  height: 45px;
+}
