@@ -9,6 +9,7 @@
 ![Website](website.png)
 ## The main goal was to create notebook website using react
 The task name "To-do list"
+Level: medium
 Task had to have those possibilities:
 1. Adding new task
 2. Delete task
