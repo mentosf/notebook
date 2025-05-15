@@ -2,9 +2,9 @@
 <h1 align="center">
   Personal Notebook website BETA
 </h1>
-<h2 align="center">
+<h3 align="center">
   This project was made for final exam of IT-Step
-</h2>
+</h3>
 
 ![Website](website.png)
 ## The main goal was to create notebook website using react
