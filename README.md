@@ -1,7 +1,7 @@
 # Personal Notebook website BETA
 
 This project was made for final exam of IT-Step
-
+![Image alt](https://github.com/{mentosf}/{notebook}/raw/{branch}/{path}/image.png)
 ## The main goal was to create notebook website using react
 
 The task name "To-do list"
@@ -11,9 +11,6 @@ The task name "To-do list"
 * In bash go to folder notebook
 * npm install
 * npm start
-
-
-The page will reload when you make changes.\
 
 ### `npm test`
 
