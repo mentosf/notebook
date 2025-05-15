@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/e11a1464-e1cd-4c6c-ace0-a1c910025302)# Personal Notebook website BETA
 
+<h1 align="center">
+  Personal Notebook website BETA
+</h1>
 <h2 align="center">
   This project was made for final exam of IT-Step
 </h2>
