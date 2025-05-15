@@ -3,8 +3,15 @@
 This project was made for final exam of IT-Step
 ![Website](website.png)
 ## The main goal was to create notebook website using react
-
 The task name "To-do list"
+
+
+
+## Was used:
+- JavaScript
+- HTML/CSS
+- ⚛React
+
 
 ### `How to use`:
 * Git clone <url>
