@@ -10,7 +10,7 @@ The task name "To-do list"
 ## Was used:
 - JavaScript
 - HTML/CSS
-- ⚛React
+- React
 
 
 ### `How to use`:
