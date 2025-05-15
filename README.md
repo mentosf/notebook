@@ -1,6 +1,9 @@
-# Personal Notebook website BETA
+![image](https://github.com/user-attachments/assets/e11a1464-e1cd-4c6c-ace0-a1c910025302)# Personal Notebook website BETA
 
-This project was made for final exam of IT-Step
+<h2 align="center">
+  This project was made for final exam of IT-Step
+</h2>
+
 ![Website](website.png)
 ## The main goal was to create notebook website using react
 The task name "To-do list"
