@@ -1,7 +1,7 @@
 # Personal Notebook website BETA
 
 This project was made for final exam of IT-Step
-![Image alt](https://github.com/{mentosf}/{notebook}/raw/{branch}/{path}/image.png)
+![Website](website.png)
 ## The main goal was to create notebook website using react
 
 The task name "To-do list"
