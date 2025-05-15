@@ -1,18 +1,19 @@
-# Getting Started with Create React App
+# Personal Notebook website BETA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made for final exam of IT-Step
 
-## Available Scripts
+## The main goal was to create notebook website using react
 
-In the project directory, you can run:
+The task name "To-do list"
 
-### `npm start`
+### How to use:
+* Git clone <url>
+* In bash go to folder notebook
+* npm install
+* npm start
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
