@@ -42,6 +42,6 @@ Available possibilities:
 - React
 - Router-dom
 
-![It step](step.png)
+<img src="step.png" alt="Опис" width="300"/>
 ### This project was made by IT-Step student all information you can see here
 [🌐 Go to IT-Step](https://if.itstep.org/)
