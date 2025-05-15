@@ -6,7 +6,7 @@ This project was made for final exam of IT-Step
 
 The task name "To-do list"
 
-### 'How to use':
+### `How to use`:
 * Git clone <url>
 * In bash go to folder notebook
 * npm install
