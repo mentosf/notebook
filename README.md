@@ -25,7 +25,7 @@ Available possibilities:
 2. Delete task
 3. Search task
    
-# `all website was written on react-router-dom modul `
+### `all website was written on react-router-dom modul `
 
 
 
@@ -43,6 +43,4 @@ Available possibilities:
 - Router-dom
 
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+###
