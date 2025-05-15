@@ -42,5 +42,6 @@ Available possibilities:
 - React
 - Router-dom
 
-
-###
+![It step](step.png)
+### This project was made by IT-Step student all information you can see here
+[🌐 Go to IT-Step](https://if.itstep.org/)
