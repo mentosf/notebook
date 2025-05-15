@@ -4,13 +4,22 @@ This project was made for final exam of IT-Step
 ![Website](website.png)
 ## The main goal was to create notebook website using react
 The task name "To-do list"
+Task had to have those possibilities:
+1. Adding new task
+2. Delete task
+3. Edit task
+4. Add a project
+5. Search task
+
+Unfortunately some of them had not been created yet.
+
+Available possibilities:
+1.Adding new task
+2. Delete task
+3. Search task
 
 
 
-## Was used:
-- JavaScript
-- HTML/CSS
-- React
 
 
 ### `How to use`:
@@ -19,12 +28,10 @@ The task name "To-do list"
 * npm install
 * npm start
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
+### Was used:
+- JavaScript
+- HTML/CSS
+- React
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
